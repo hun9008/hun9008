@@ -60,20 +60,6 @@
     <img src="https://img.shields.io/badge/MireaSW%20BigData%20Ideaton-339933?style=for-the-badge"/>
 </div>
 
-<h3 align="center">🏆 Win in Competitions 🏆</h3>
-<div style="display: flex; justify-content: center;">
-    <img src="https://img.shields.io/badge/2023%20AjouTon-3178C6?style=for-the-badge"/>
-</div>
-
-
-🏫 Ajou University, Software and computer Engineering Department
-
-💻 멋쟁이 사자처럼 11th.
-
-<h3>🔗 Link</h3>
-
-[![Github Blog](https://img.shields.io/badge/BOJ-000000?style=for-the-badge)](https://solved.ac/profile/dydgns135)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hun9008&hide_progress=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hun9008&show_icons=true&theme=tokyonight)
 
