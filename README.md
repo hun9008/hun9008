@@ -15,7 +15,7 @@ Currently with [UNIST DI-Lab](https://sites.google.com/view/unist-dilab/), explo
 class Yonghun:
     interest = ["Multimodal Recommendation", "Graph Neural Networks", "AI Safety"]
     stack = ["Python", "PyTorch", "Java", "Spring", "AWS", "Docker"]
-    motto = "understand deeply, build fast, iterate endlessly"
+    motto = "simple is best. cut noise, keep signal."
 ```
 
 ---
